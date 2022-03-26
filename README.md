@@ -2,7 +2,7 @@
 
 <p align="center">
 	<a href="https://github.com/ndkhangitnlu">
-	<img src="https://drive.google.com/file/d/1O4OlR4bUmFBXn7VUjXCilJ_Ek9ICvE54/view?usp=sharing" width = "200" alt="NDK">
+	<img src="https://i.pinimg.com/originals/1c/f0/65/1cf0653790c1f3f13856b6e74c8b4ca9.jpg" width = "200" alt="NDK">
 	</a>
 </p>
 
