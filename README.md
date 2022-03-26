@@ -1,4 +1,4 @@
-# <p align="center">Trần Ngọc Tiến</p>
+# <p align="center">Nguyễn Duy Khang</p>
 
 <p align="center">
 	<a href="https://github.com/ndkhangitnlu">
